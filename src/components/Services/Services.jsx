@@ -1,4 +1,4 @@
-// import React from "react";
+import React from "react";
 import Img from "../../assets/pngtree-cappuccino-ice-with-cup-png-image_12777363-removebg-preview.png";
 import Img2 from "../../assets/biryani2.png";
 import Img3 from "../../assets/biryani3.png";
